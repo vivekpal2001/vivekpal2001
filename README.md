@@ -31,7 +31,7 @@
 
 ### 🌱 Projects
 
-- [meet.ai](https://github.com/vivekpal2001/meetai) &nbsp; | &nbsp; [sql-editor](https://github.com/vivekpal2001/SQL-EDITOR) &nbsp; | &nbsp; [NITWDispensary](https://github.com/vivekpal2001/NITWDispensaryBackend)  
+- [MentorSpeak.ai](https://github.com/vivekpal2001/MentorSpeak.ai) &nbsp; | &nbsp; [sql-editor](https://github.com/vivekpal2001/SQL-EDITOR) &nbsp; | &nbsp; [NITWDispensary](https://github.com/vivekpal2001/NITWDispensaryBackend)  
 
 ---
 
